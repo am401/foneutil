@@ -5,7 +5,7 @@ Python based application to manage notes during phone interactions.
 The main application can be installed using an automated setup script:
 
 ```
-curl -IL https://raw.githubusercontent.com/am401/foneutil/master/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/am401/foneutil/master/setup.sh | bash
 ```
 
 # Usage
